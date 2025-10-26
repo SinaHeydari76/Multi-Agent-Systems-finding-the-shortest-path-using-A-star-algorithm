@@ -18,3 +18,18 @@ And it is also worth mentioning that many games and web-based maps use this algo
 find the shortest path very efficiently (approximation).
 
 ## References
+I used NetLogo (an environment for agent-based modeling in both research and education) for implementation.
+````
+https://www.netlogo.org
+https://github.com/NetLogo/
+@inproceedings{tisue2004netlogo,
+  title={Netlogo: A simple environment for modeling complexity},
+  author={Tisue, Seth and Wilensky, Uri and others},
+  booktitle={International conference on complex systems},
+  volume={21},
+  pages={16--21},
+  year={2004},
+  organization={Boston, MA}
+}
+
+````
