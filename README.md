@@ -16,3 +16,5 @@ What it means is that it is really a smart algorithm which separates it from the
 conventional algorithms. This fact is cleared in detail in below sections.
 And it is also worth mentioning that many games and web-based maps use this algorithm to
 find the shortest path very efficiently (approximation).
+
+## References
