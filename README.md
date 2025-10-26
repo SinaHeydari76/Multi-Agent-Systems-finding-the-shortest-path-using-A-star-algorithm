@@ -20,8 +20,6 @@ find the shortest path very efficiently (approximation).
 ## References
 I used NetLogo (an environment for agent-based modeling in both research and education) for implementation.
 ````
-https://www.netlogo.org
-https://github.com/NetLogo/
 @inproceedings{tisue2004netlogo,
   title={Netlogo: A simple environment for modeling complexity},
   author={Tisue, Seth and Wilensky, Uri and others},
